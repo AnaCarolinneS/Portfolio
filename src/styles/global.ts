@@ -32,6 +32,8 @@ ul {
 }
 button {
   cursor: pointer;
+  background-color: #11172B;
+  border: none;
 }
 a {
   text-decoration: none;

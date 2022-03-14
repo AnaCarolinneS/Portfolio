@@ -31,8 +31,7 @@ export const Button = styled.button`
     height: 6.5rem;
     color: ${({ theme }) => theme.secondary};
     transition: 0.3s;
-    background-color: #11172B;
-    border: none
+
   }
 `;
 
